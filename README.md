@@ -37,6 +37,7 @@
 | Project | Description |
 |---------|-------------|
 | [sakechart](https://github.com/renshuki/sakechart) / [sakechart2](https://github.com/renshuki/sakechart2) | 🍶 Interactive JS chart to classify and explore Japanese sake |
+| [efgtracker](https://github.com/renshuki/efgtracker) | 🎮 Track Epic Games Store free games and open GitHub Issues for new offers |
 | [japanese-ime-macros](https://github.com/renshuki/japanese-ime-macros) | ⌨️ Japanese IME user dictionary tool |
 | [tc2sc](https://github.com/renshuki/tc2sc) | 🔄 Traditional Chinese to Simplified Chinese converter |
 | [pc-flavored-mac](https://github.com/renshuki/pc-flavored-mac) | 🖥️ PC-style keyboard mapping for Mac (for Windows/Linux users) |
