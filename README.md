@@ -31,6 +31,7 @@
 |---------|-------------|
 | [friendly-backup](https://github.com/renshuki/friendly-backup) | 💾 Simple shell script to backup websites, databases, and more |
 | [dotfiles](https://github.com/renshuki/dotfiles) | 🏠 Personal dotfiles configuration |
+| [it-stuff](https://github.com/renshuki/it-stuff) | 🧰 IT setup and troubleshooting notes for PC configuration and connectivity |
 
 #### 🇯🇵 Japan & Fun
 
